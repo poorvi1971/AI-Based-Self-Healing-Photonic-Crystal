@@ -271,7 +271,7 @@ Conclusion
 This project demonstrates a software-level proof-of-concept for an AI-assisted closed-loop self-healing architecture for photonic-crystal structures.
 The current implementation successfully integrates:
 
-Damage Generation → AI Detection → Localization → A Navigation → Virtual Repair → Optical Verification → Risk Prediction*
+Damage Generation → AI Detection → Localization → A* Navigation → Virtual Repair → Optical Verification → Risk Prediction*
 
 The system achieved 20/20 successful synthetic end-to-end evaluations, demonstrating the feasibility of integrating these computational components into a single workflow.
 
