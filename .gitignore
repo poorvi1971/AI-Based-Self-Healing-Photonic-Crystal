@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+.DS_Store
+
+dataset/
+dynamic_healthy.png
+dynamic_damaged.png
+dynamic_repaired.png
+
+*.keras

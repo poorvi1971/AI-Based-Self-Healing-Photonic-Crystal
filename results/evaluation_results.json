@@ -1,0 +1,182 @@
+[
+    {
+        "case": 1,
+        "confidence": 100.0,
+        "path": 23,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 120.36,
+        "y": 120.45
+    },
+    {
+        "case": 2,
+        "confidence": 100.0,
+        "path": 21,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 76.29,
+        "y": 159.35
+    },
+    {
+        "case": 3,
+        "confidence": 100.0,
+        "path": 26,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 120.98,
+        "y": 157.53
+    },
+    {
+        "case": 4,
+        "confidence": 100.0,
+        "path": 22,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 80.1,
+        "y": 159.51
+    },
+    {
+        "case": 5,
+        "confidence": 88.95,
+        "path": 29,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 157.2,
+        "y": 157.64
+    },
+    {
+        "case": 6,
+        "confidence": 100.0,
+        "path": 22,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 157.23,
+        "y": 83.64
+    },
+    {
+        "case": 7,
+        "confidence": 100.0,
+        "path": 23,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 120.98,
+        "y": 120.98
+    },
+    {
+        "case": 8,
+        "confidence": 100.0,
+        "path": 18,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 117.67,
+        "y": 83.63
+    },
+    {
+        "case": 9,
+        "confidence": 100.0,
+        "path": 22,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 119.92,
+        "y": 120.53
+    },
+    {
+        "case": 10,
+        "confidence": 100.0,
+        "path": 26,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 122.84,
+        "y": 156.26
+    },
+    {
+        "case": 11,
+        "confidence": 100.0,
+        "path": 18,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 119.62,
+        "y": 80.38
+    },
+    {
+        "case": 12,
+        "confidence": 100.0,
+        "path": 21,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 79.92,
+        "y": 159.85
+    },
+    {
+        "case": 13,
+        "confidence": 100.0,
+        "path": 23,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 160.59,
+        "y": 80.85
+    },
+    {
+        "case": 14,
+        "confidence": 100.0,
+        "path": 17,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 118.9,
+        "y": 79.54
+    },
+    {
+        "case": 15,
+        "confidence": 100.0,
+        "path": 14,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 83.94,
+        "y": 76.45
+    },
+    {
+        "case": 16,
+        "confidence": 100.0,
+        "path": 14,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 77.86,
+        "y": 82.14
+    },
+    {
+        "case": 17,
+        "confidence": 100.0,
+        "path": 13,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 79.73,
+        "y": 79.91
+    },
+    {
+        "case": 18,
+        "confidence": 100.0,
+        "path": 27,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 120.13,
+        "y": 160.13
+    },
+    {
+        "case": 19,
+        "confidence": 99.92,
+        "path": 27,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 123.4,
+        "y": 161.75
+    },
+    {
+        "case": 20,
+        "confidence": 100.0,
+        "path": 27,
+        "repair": 100.0,
+        "optical": 98.9,
+        "x": 120.68,
+        "y": 162.54
+    }
+]

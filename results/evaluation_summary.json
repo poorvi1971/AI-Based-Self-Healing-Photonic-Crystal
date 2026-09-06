@@ -1,0 +1,10 @@
+{
+    "total_cases": 20,
+    "successful_cases": 20,
+    "failed_cases": 0,
+    "success_rate": 100.0,
+    "average_cnn_confidence": 97.85,
+    "average_astar_path_length": 22.35,
+    "average_repair_accuracy": 100.0,
+    "average_optical_recovery": 98.8
+}
